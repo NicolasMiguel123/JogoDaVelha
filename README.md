@@ -1,5 +1,5 @@
 
-# Jogo da Velha em
+# Jogo da Velha em C#
 
 Projeto simples desenvolvido no curso tecnico em Desenvolvimento de Sistemas do senac de Pindamonhagaba, o jogo utiliza objeto_sender para de manipulação de objetos que chama o evento de forma mais eficiencia.
 
